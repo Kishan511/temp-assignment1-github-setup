@@ -1,10 +1,39 @@
-# Ex-1
+# Ex-1: Introduction to GitHub Submission Process
 
-## Goals:
-Familiarize yourself with the github submission process.
-Practice some tensor math.
-Sample regression.
+## Overview
+In this assignment, you will familiarize yourself with the GitHub submission process and implement a simple RMSE function.
 
+## Objectives
+1. Get comfortable with GitHub submission process by completing a function to output your name.
+2. Implement Root-Mean-Square Error in python using numpy.
 
-### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+## The Assignment
+
+The files 'get_a_point_for_writing_your_name.py' and 'calculate_rmse.py' contain methods that are incomplete/incorrect.
+The current tests are failing because these methods aren't providing the correct output. 
+You are required to fix them up and ensure the tests pass for a successful submission.
+
+---
+
+## Validating and Evaluating Your Results
+
+### Online
+1. After committing and pushing your code, check the mark on the top line (near the commit ID).
+2. If some tests are failing, click on the ❌ to open up a popup, which will show details about the errors.
+3. You can click the [Details]() link to see what went wrong. Pay special attention to lines with the words "Failed" or "error".
+
+![screnshot](images/details_screenshot.png)
+
+4. Near the bottom of the [Details]() page, you can see your score. Here are examples of 0/5 and 5/5:
+
+![score](images/score.png) ![success](images/success.png)
+
+5. When you achieve a perfect score, you will see a green checkmark near the commit ID.
+
+![green](images/green.png)
+
+### Locally
+1. You can test your code locally by installing and running `pytest` (`pip install pytest` or `conda install pytest`).
+2. Run the tests using the command `pytest` in your terminal. This will show the status of each test and any errors that occurred.
+
+Best of luck!
