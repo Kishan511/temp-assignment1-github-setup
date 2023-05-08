@@ -1,17 +1,17 @@
 # Ex-1: Introduction to GitHub Submission Process
 
 ## Overview
-In this assignment, you will familiarize yourself with the GitHub submission process and implement a simple RMSE function.
+In this assignment, you will familiarize yourself with the GitHub submission process.
 
 ## Objectives
 1. Get comfortable with GitHub submission process by completing a function to output your name.
-2. Implement Root-Mean-Square Error in python using numpy.
+2. Push the changes and successfully run autograde.
 
 ## The Assignment
 
-The files 'get_a_point_for_writing_your_name.py' and 'calculate_rmse.py' contain methods that are incomplete/incorrect.
-The current tests are failing because these methods aren't providing the correct output. 
-You are required to fix them up and ensure the tests pass for a successful submission.
+The file 'get_a_point_for_writing_your_name.py' contain methods that are incomplete.
+The current tests are failing because this method isn't providing the correct output. 
+You are required to fix them up and ensure the test passes for a successful submission.
 
 ---
 
